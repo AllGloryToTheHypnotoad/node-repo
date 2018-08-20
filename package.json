@@ -9,6 +9,8 @@
   "author": "kevin walchko",
   "license": "MIT",
   "dependencies": {
-    "chokidar": "latest"
+    "chokidar": "latest",
+    "finalhandler": "latest",
+    "router": "latest"
   }
 }
